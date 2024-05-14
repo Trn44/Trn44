@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trn44&label=Profile%20Views&color=f88192&style=plastic" alt="trn44" /> </p> 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools I'm learning/Using:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
