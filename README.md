@@ -10,10 +10,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" height="40" />
 </p>      
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trn44&show_icons=true&theme=dark&title_color=f88192&text_color=f88192&locale=en&layout=compact" alt="trn44" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trn44&show_icons=true&theme=dark&title_color=f88192&text_color=f88192&locale=en&layout=compact" alt="trn44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trn44&show_icons=true&theme=dark&title_color=f88192&text_color=f88192&locale=en" alt="trn44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trn44&theme=dark" alt="trn44" /></p>
-
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="80" height="80"/>
