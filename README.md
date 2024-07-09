@@ -4,7 +4,7 @@
   </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trn44&label=Profile%20Views&color=f88192&style=plastic" alt="trn44" /> </p> 
 <h2>About me</h2> </br>
-Ravensbourne University London: Cyber Security Graduate 2024 
+Ravensbourne University London - Cyber Security Graduate
 
 <h3 align="left">Languages & Software I'm learning/Using:</h3>
 <p align="left"> 
