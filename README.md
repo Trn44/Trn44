@@ -3,9 +3,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trn44&label=Profile%20Views&color=f88192&style=plastic" alt="trn44" /> </p> 
-<h2>About me</h2> </br>
-Ravensbourne University London - Cyber Security Graduate
-
+<h2>My Profile</h2>
 <h3 align="left">Languages & Software I'm learning/Using:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
