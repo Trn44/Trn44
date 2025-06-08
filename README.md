@@ -3,7 +3,7 @@
 <p align="center"> <a href="https://www.linkedin.com/in/jayden-t-1289b9307/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> 
 
-![Banner](https://github.com/user-attachments/assets/e2963a49-4b56-4896-a5bb-1336ff45fd77)
+![Banner](https://github.com/user-attachments/assets/4158753f-f762-4282-ba00-5abfb0091611)
 
 <div class='container'>
 <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trn44&show_icons=truek&bg_color=000000&title_color=f88192&text_color=f88192&hide_border=false&border_color=6CD3BF&include_all_commits=true&count_private=true&layout=compact"/>
